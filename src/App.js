@@ -1,8 +1,8 @@
-import TareasApp from "./components/todoApp";
+import TodoApp from "./components/todoApp";
 
 function App() {
   return (
-    <TareasApp/>
+    <TodoApp/>
   );
 }
 
